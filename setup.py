@@ -73,7 +73,7 @@ PACKAGE = 'throttle'
 
 
 setup(
-    name="throttle_memcache",
+    name="throttle-memcache",
     version=get_version(PACKAGE),
     author="Raphaël Barrois",
     author_email="raphael.barrois+throttle@polytechnique.org",
